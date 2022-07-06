@@ -3,11 +3,6 @@ body {
     margin: 0;
 }
 
-/*section {
-    height: 500px;
-    padding-bottom: 50px;
-}*/
-
 .image {
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
@@ -39,7 +34,6 @@ h1 {
     padding: 10px 20px;
     border-radius: 5px;
 }
-
 
 h2 {
     font-size: 40px;
@@ -74,7 +68,6 @@ h2 {
     color: rgba(248, 11, 11, 0.657);
 }
 
-
 hr {
     width: 750px;
     margin-top: 0px;
@@ -83,6 +76,8 @@ hr {
 
 #para-other {
     color: gray;
+    text-align: center;
+    font-size: 15px;
 }
 
 .donate-plan {
@@ -93,7 +88,7 @@ hr {
     padding-right: 40px;
     padding-bottom: 20px;
     margin-left: 80px;
-    margin-bottom: 50px;
+    margin-bottom: 70px;
 }
 
 #plan1 {
